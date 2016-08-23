@@ -1,0 +1,324 @@
+lake,size ,eggs,type
+No Good,52,5,R
+No Good,60,dark,R
+No Good,50,0,R
+No Good,54,3,R
+No Good,48,0,R
+No Good,59,3,R
+No Good,55,1,R
+No Good,55,0,R
+No Good,51,dark,R
+No Good,53,3,R
+No Good,45,0,R
+No Good,53,3,R
+No Good,60,7,R
+No Good,52,0,R
+No Good,60,6,R
+No Good,45,0,R
+No Good,55,2,R
+No Good,50,3,R
+No Good,60,5,R
+No Good,45,0,R
+No Good,36,0,R
+No Good,45,0,R
+No Good,42,0,R
+No Good,50,3,R
+No Good,45,0,R
+No Good,38,0,R
+No Good,48,4,R
+No Good,60,5,R
+No Good,40,0,R
+No Good,34,0,R
+No Good,46,0,R
+No Good,55,0,R
+No Good,42,0,R
+No Good,37,0,R
+No Good,33,0,R
+No Good,30,0,R
+No Good,25,0,R
+No Good,22,0,R
+No Good,24,0,R
+No Good,24,0,R
+No Good,60,8,R
+No Good,63,0,R
+No Good,55,0,R
+No Good,56,3,R
+No Good,59,3,R
+Cony,62,9,R
+Cony,57,0,R
+Cony,74,14,R
+Cony,73,10,R
+Cony,54,0,R
+Cony,52,0,R
+Cony,69,8,R
+Cony,60,5,R
+Cony,51,0,R
+Cony,50,0,R
+Cony,57,0,R
+Cony,56,0,R
+Cony,45,0,R
+Cony,54,0,R
+Cony,68,12,R
+Cony,66,7,R
+Cony,44,0,R
+Cony,61,5,R
+Cony,70,12,R
+Cony,50,0,R
+Cony,44,0,R
+Cony,66,7,R
+Cony,54,3,R
+Cony,51,0,R
+Cony,55,0,R
+Cony,59,6,R
+Cony,55,0,R
+Cony,60,11,R
+Cony,55,0,R
+Cony,73,12,R
+Cony,50,0,R
+Cony,56,dark,R
+Cony,50,0,R
+Cony,53,0,R
+Cony,54,0,R
+Cony,45,0,R
+Cony,52,0,R
+Cony,45,0,R
+Cony,24,0,R
+Cony,26,0,R
+Cony,27,0,R
+Cony,26,0,R
+Cony,27,0,R
+Cony,52,0,R
+Cony,76,12,R
+Cony,85,15,R
+Cony,67,6,R
+Cony,68,10,R
+Square,60,0,R
+Square,54,0,R
+Square,56,0,R
+Square,57,0,R
+Square,61,0,R
+Square,51 (without tail),2,R
+Square,35,0,R
+Square,36,0,R
+Square,65,0,R
+Square,60,0,R
+Square,66,1,R
+Square,35,0,R
+Square,58,0,R
+Square,60,1,R
+Square,55,0,R
+Square,61,0,R
+Square,59,0,R
+Square,58,0,R
+Square,54,0,R
+Square,60,0,R
+Square,55,0,R
+Square,60,0,R
+Square,41,0,R
+Square,53,0,R
+Square,35,0,R
+Square,63,0,R
+Square,35,0,R
+Square,36,0,R
+Square,56,0,R
+Square,35,0,R
+Square,71,2,R
+Square,71,0,R
+Square,54,0,R
+Square,53,0,R
+Square,60,0,R
+Square,60,0,R
+Square,44,0,R
+Square,43,0,R
+Square,45,0,R
+Square,63,1,R
+Square,55,0,R
+Square,71,0,R
+Square,60,0,R
+Square,54,0,R
+Finch,25,0,R
+Finch,52,1,R
+Finch,46,0,R
+Finch,57,1,R
+Finch,56,1,R
+Finch,50,0,R
+Finch,44,0,R
+Finch,45,0,R
+Finch,56,2,R
+Finch,55,1,R
+Finch,56,1,R
+Finch,46,0,R
+Finch,56,1,R
+Finch,55,0,R
+Finch,55,0,R
+Finch,54,1,R
+Finch,56,0,R
+Finch,55,1,R
+Finch,59,1,R
+Finch,53,2,R
+Finch,55,1,R
+Finch,57,0,R
+Finch,58,0,R
+Finch,56,1,R
+Finch,59,0,R
+Finch,56,0,R
+Finch,55,0,R
+Finch,55,1,R
+Finch,58,0,R
+Finch,57,0,R
+Finch,60,0,R
+Finch,56,0,R
+Finch,56,0,R
+Finch,57,1,R
+Finch,59,0,R
+Finch,61,0,R
+Finch,56,0,R
+Finch,58,0,R
+Finch,58,1,R
+Finch,60,0,R
+Finch,26,0,R
+Finch,58,1,R
+Pipit,59,0,N
+Pipit,64,0,N
+Pipit,57,0,N
+Pipit,34,0,N
+Pipit,52,0,N
+Pipit,56,0,N
+Pipit,60,0,N
+Pipit,60,0,N
+Pipit,59,0,N
+Pipit,68,2,N
+Pipit,60,0,N
+Pipit,54,0,N
+Pipit,60,0,N
+Pipit,60,0,N
+Pipit,70,2,N
+Pipit,57,0,N
+Pipit,69,dark,N
+Pipit,55,0,N
+Pipit,60,0,N
+Pipit,56,0,N
+Pipit,57,0,N
+Pipit,60,1,N
+Pipit,64,4,N
+Pipit,62,0,N
+Pipit,58,0,N
+Pipit,68,0,N
+Pipit,71,0,N
+Pipit,60,0,N
+Pipit,55,0,N
+Pipit,52,0,N
+Pipit,55,0,N
+Pipit,59,0,N
+Pipit,68,3,N
+Pipit,64,2,N
+Pipit,69,2,N
+Pipit,51,0,N
+Pipit,58,0,N
+Pipit,52,0,N
+Pipit,49,0,N
+Pipit,58,0,N
+Pipit,49,0,N
+Pipit,54,0,N
+Pipit,51,0,N
+Pipit,69,2,N
+Pipit,60,0,N
+Pipit,52,0,N
+Grouse,68,4,N
+Grouse,71,dark,N
+Grouse,60,0,N
+Grouse,66,7,N
+Grouse,61,5,N
+Grouse,70,12,N
+Grouse,70,dark,N
+Grouse,74,14,N
+Grouse,69,0,N
+Grouse,75,12,N
+Grouse,70,14,N
+Grouse,70,dark,N
+Grouse,71,8,N
+Grouse,54,0,N
+Grouse,25,0,N
+Grouse,53,0,N
+Grouse,71,dark,N
+Grouse,70,0,N
+Grouse,75,dark,N
+Grouse,69,10,N
+Grouse,72,7,N
+Grouse,76,dark,N
+Grouse,75,14,N
+Grouse,76,15,N
+Grouse,73,dark,N
+Grouse,74,11,N
+Grouse,59,4,N
+Grouse,58,3,N
+Grouse,64,0,N
+Grouse,73,6,N
+Grouse,73,dark,N
+Grouse,54,0,N
+Grouse,72,0,N
+Grouse,73,14,N
+Grouse,70,3,N
+Grouse,69,dark,N
+Grouse,46,0,N
+Grouse,72,11,N
+Grouse,72,0,N
+Grouse,39,0,N
+Grouse,80,dark,N
+Grouse,73,12,N
+Grouse,52,0,N
+Grouse,50,0,N
+Grouse,25,0,N
+Grouse,24,0,N
+Grouse,25,0,N
+Grouse,25,0,N
+Grouse,25,0,N
+Secret,60,dark,N
+Secret,65,dark,N
+Secret,68,11,N
+Secret,73,10,N
+Secret,60,dark,N
+Secret,64,dark,N
+Secret,70,10,N
+Secret,60,0,N
+Secret,65,dark,N
+Secret,28,0,N
+Secret,26,0,N
+Secret,66,3,N
+Secret,53,0,N
+Secret,70,dark,N
+Secret,69,dark,N
+Secret,62,0,N
+Secret,60,0,N
+Secret,69,dark,N
+Secret,66,2,N
+Secret,74,20,N
+Secret,60,0,N
+Secret,60,0,N
+Secret,50,dark,N
+Secret,58,dark,N
+Secret,60,dark,N
+Secret,63,dark,N
+Secret,71,6,N
+Secret,62,dark,N
+Secret,65,0,N
+Secret,72,2,N
+Secret,70,0,N
+Secret,64,6,N
+Secret,65,0,N
+Secret,62,0,N
+Secret,63,dark,N
+Secret,66,dark,N
+Secret,62,0,N
+Secret,60,0,N
+Secret,74,4,N
+Secret,60,dark,N
+Secret,71,7,N
+Secret,65,0,N
+Secret,57,0,N
+Secret,60,0,N
+Secret,65,dark,N
+Secret,58,dark,N
+Secret,25,0,N
+Secret,24,0,N
+Secret,15,0,N
